@@ -1,0 +1,66 @@
+{
+    "todo-tree.highlights.defaultHighlight": {
+        "icon": "alert",
+        "type": "line",
+        "foreground": "red",
+        "background": "white",
+        "opacity": 10,
+        "iconColour": "green"
+    },
+    "todo-tree.highlights.customHighlight": {
+        "UPDATE": {
+            "icon": "chevron-up",
+            "iconColour" : "#9370DB" ,
+            "type": "line",
+            "foreground" : "#CC99FF" ,
+            "background" : "#8E01DF" ,
+            "gutterIcon": true,
+        },
+        "TODO": {
+            "icon": "calendar",
+            "iconColour" : "#66B2FF" ,
+            "type": "line",
+            "foreground" : "#0080FF" ,
+            "background" : "cyan" ,
+            "gutterIcon": true,
+        },
+        "FIXME": {
+            "icon": "tools",
+            "background": "#FFFFCC",
+            "foreground": "#CCCC00",
+            "iconColour": "#FFFF99",
+            "gutterIcon": true
+        },
+        "BUG": {
+            "icon": "bug",
+            "background": "#CD5C5C",
+            "foreground": "#B22222",
+            "iconColour": "#800000",
+            "gutterIcon": true
+        },
+        "WARNING": {
+            "icon": "alert",
+            "background": "#FFA07A",
+            "foreground": "#DC143C",
+            "iconColour": "#FF6347",
+            "gutterIcon": true
+        },
+        "COMPLETE" : {
+            "icon": "check",
+            "background": "#CCFFCC",
+            "foreground": "green",
+            "iconColour": "green",
+            "gutterIcon": true
+        }
+    
+    },
+    "todo-tree.general.tags" : [
+        "TODO",
+        "FIXME",
+        "BUG",
+        "COMPLETE",
+        "WARNING",
+        "UPDATE"
+    ]
+    
+}
