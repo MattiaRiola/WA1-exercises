@@ -46,4 +46,4 @@ let emptyObject = {};
 if( 3 && 'false' && emptyArray && emptyObject)
     console.log("those are considered true: number != 0\t notEmptyString\t emptyArray\t emptyObject\t ");
 
-
+debugger;

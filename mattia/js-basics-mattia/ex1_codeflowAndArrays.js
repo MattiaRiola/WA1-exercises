@@ -93,3 +93,5 @@ const parts = ['RAM','HDD','CPU','motherboard'];
 console.log("const parts = ['RAM','HDD','CPU','motherboard']" + parts);
 const wishList = ['mobile_phone', ...parts, 'microwave'];
 console.log("const wishList = ['mobile_phone', ...parts, 'microwave']; wishList = " + wishList);
+
+debugger;

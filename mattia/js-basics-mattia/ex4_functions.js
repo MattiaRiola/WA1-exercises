@@ -170,3 +170,6 @@ let counter2 = make_counter();
 console.log(counter2());
 console.log(counter2());
 console.log(counter2());
+
+
+debugger;
