@@ -1,0 +1,14 @@
+{
+  "name": "js-basics-mattia",
+  "version": "1.0.0",
+  "description": "MyPackageForSQLite",
+  "main": "ex7_timeAndAsynch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^5.0.2"
+  }
+}
