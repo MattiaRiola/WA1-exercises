@@ -10,6 +10,8 @@ let date1 = new Date(2019,11,21);
 console.log(date1.toString());
 setTimeout(hello,2000);
 console.log("hi!");
+//TODO: Playing with dayjs
+
 
 console.log("#############");
 console.log("--- reading from file ---");
@@ -24,7 +26,7 @@ const db = new sqlite.Database('numbers.sqlite',(err)=>{
 });
 const myQuery1 = 'SELECT * FROM number';
 db.all('SELECT * FROM number;',(err,rows) => {
-    //BUG: with debugger it doesn't find any element, but with terminal it works fine
+    //WARNING: with debugger it doesn't find any element, but with terminal it works fine
         if(err)
             console.log(err);
         else{
