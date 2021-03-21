@@ -10,7 +10,6 @@ let date1 = new Date(2019,11,21);
 console.log(date1.toString());
 setTimeout(hello,2000);
 console.log("hi!");
-//TODO: Playing with dayjs
 
 
 console.log("#############");
@@ -36,11 +35,16 @@ db.all('SELECT * FROM number;',(err,rows) => {
         }
     });
 
+
+    
+
 db.close();
 
 
 
 function playingWithDayJs(){
+//TODO: Playing with dayjs
+
     // dayjs module is required
     // let now = dayjs();
     // console.log(now);
