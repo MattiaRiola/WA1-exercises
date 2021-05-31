@@ -9,6 +9,9 @@ function Exam(code,name,cfu,score,honors,datePassed){
     this.datePassed = datePassed;
 }
 
+
+
+
 function ExamList(){
     this.exams = []; //usig this. exams is like a "public" variable
     //let exams = []; //using let exams is like a "private" variable and it is not visible outside this scope
