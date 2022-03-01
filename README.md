@@ -1,9 +1,5 @@
 # Personal exercises of web application 1 course 
 
-
-
-
-
 ### Using TODO Tree
 #### Configuration
 0. Install TODO Tree extension to vs code
