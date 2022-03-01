@@ -1,5 +1,5 @@
 # Personal exercises of web application 1 course 
-
+    In this repo we all have a folder for the javascript exercises
 ### Using TODO Tree
 #### Configuration
 0. Install TODO Tree extension to vs code
