@@ -1,5 +1,5 @@
 # Personal exercises of web application 1 course 
-
+    In this repo we all have a folder for the javascript exercises
 ### Using TODO Tree
 #### Configuration
 0. Install TODO Tree extension to vs code
@@ -9,6 +9,7 @@
     * once saved and correctly configured you should see a list of tags like this ![list](./immages/TODO_Tree_Screenshot.png)
 
 #### Conventions
+
     //#TODO: To do feature
 
     //#FIXME: Something that has to be fixed
